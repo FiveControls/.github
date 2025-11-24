@@ -10,7 +10,7 @@ A powerful **server admin panel** for managing players, staff, vehicles, housing
 
 Grab the latest release here:  
 
-[![Download](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/your-org/admin-panel/releases)
+[![Download](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/FiveControls/FiveM-Script/releases)
 
 ---
 
